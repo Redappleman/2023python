@@ -1,5 +1,5 @@
 menu = ('햄버거','치즈버거','불고기버거','싸이버거')
-price = (400,4500,5000,7000)
+price = (4000,4500,5000,7000)
 
 for k in range(len(menu)) : 
     print(k+1,' : ',menu[k],': ',price[k])
